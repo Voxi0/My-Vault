@@ -1,0 +1,1 @@
+A compound consists of two or more different [elements](./Elements) chemically joined together.
