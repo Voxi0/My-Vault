@@ -1,0 +1,1 @@
+- [ ] Write all the notes for Physics - Energy 🛫 2024-12-14 📅 2024-12-14

@@ -1,0 +1,2 @@
+- [[Default]]: Normal note. Should be used for regular notes.
+- [[Daily Note]]: Used for diary entries.
