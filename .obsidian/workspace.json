@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a14de3295103ca24",
+        "id": "f16fcfcbec38a3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "5f51be82d4c7bb25",
+            "id": "626c0feeeffa6e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Test"
             }
           }
         ]
@@ -139,28 +139,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Science/Chemistry/Atom.md"
+                "file": "Test.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Atom"
-            }
-          },
-          {
-            "id": "fd77de6f9b8aeabb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Test"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +161,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5f51be82d4c7bb25",
+  "active": "7c805fe46ace5865",
   "lastOpenFiles": [
-    "README.md",
-    "School/Science/Chemistry/Elements.md",
-    "School/Science/Chemistry/Atom.md",
-    "School/Science/Chemistry/Untitled",
+    "Excalidraw/Scrooge.md",
+    "Test.md",
+    "Excalidraw",
     "School/Science/Chemistry/Molecule.md",
+    "School/Science/Chemistry/Elements.md",
     "School/Science/Chemistry/Compounds.md",
+    "School/Science/Chemistry/Atom.md",
+    "README.md",
+    "School/Science/Chemistry/Untitled",
     "Atoms.md",
     "School/Science/Chemistry",
     "School/Science",

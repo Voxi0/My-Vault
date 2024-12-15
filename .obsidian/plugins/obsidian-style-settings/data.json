@@ -1,0 +1,9 @@
+{
+  "shiba-theme-settings@@shiba-colors-theme-dark": "Lilac-dark",
+  "shiba-theme-settings@@shiba-colors-theme-light": "sky-light",
+  "shiba-theme-settings@@shiba-accent-colors": "accent-red",
+  "shiba-theme-settings@@buttons-plugin-style": true,
+  "shiba-theme-settings@@buttons-workspace-style": true,
+  "shiba-theme-settings@@translucent-pane-style-settings": "shib-setting-default-frosted-glass",
+  "shiba-theme-settings@@shib-transparent-setting-panel": false
+}

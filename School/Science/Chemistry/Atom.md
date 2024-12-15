@@ -1,1 +1,0 @@
-An atom is the smallest particle of an [element](./Elements) that still has it's chemical properties.
