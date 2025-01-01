@@ -1,4 +1,3 @@
-#readme
 ## About
 This is my [Obsidian](https://obsidian.md/) vault (obviously). Here, I store all my notes about all sorts of things like [Linux](https://en.wikipedia.org/wiki/Linux), [Nix](<https://en.wikipedia.org/wiki/Nix_(package_manager)>), computer science etc.
 

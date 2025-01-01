@@ -1,13 +1,13 @@
 [
-  "obsidian-icon-folder",
   "obsidian-latex-suite",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "obsidian-hider",
   "obsidian-completr",
   "dataview",
-  "obsidian-tasks-plugin",
-  "obsidian-full-calendar",
-  "buttons",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "url-into-selection",
+  "obsidian-icon-folder",
+  "homepage",
+  "tag-wrangler"
 ]

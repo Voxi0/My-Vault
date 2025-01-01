@@ -1,8 +1,13 @@
 {
-  "cssTheme": "Shiba Inu",
-  "interfaceFontFamily": "FreeSans",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Inter",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "checkbox",
+    "main"
+  ]
 }
