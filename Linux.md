@@ -1,0 +1,8 @@
+---
+share: true
+---
+**Tags:** #linux #index
+After using Linux, I really cannot go back to Windows or MacOS or anything like that no matter what. Linux is love, Linux is life. I've been a distrohopper (Someone who keeps installing one Linux distribution after another) when I first began my treacherous journey into Linux  but I've finally come to the realization that all distros are quite literally the same except rather minor differences, and have now settled on [NixOS](https://nixos.org/).
+
+Also for those who aren't aware, Linux is a kernel not an operating system, and a Linux distribution is a full-on operating system which is powered by the Linux kernel. All hail the mighty [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), the Linux God. And of course the Linux kernel is part of the GNU free software foundation so some nerds refer to Linux as GNU/Linux or GNU + Linux which is, factually correct, but most people prefer just saying Linux, like me.
+## :LiBookMarked: Index
