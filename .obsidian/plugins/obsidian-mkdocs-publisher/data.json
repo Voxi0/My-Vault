@@ -59,7 +59,7 @@
     "links": {
       "internal": false,
       "unshared": false,
-      "wiki": false,
+      "wiki": true,
       "slugify": "disable",
       "unlink": false,
       "relativePath": true,
@@ -99,5 +99,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "github-configuration"
+  "tabsId": "help"
 }

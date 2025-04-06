@@ -1,3 +1,8 @@
+```
+---
+share: true
+---
+```
 **Tags:** #maths #algebra
 ## Description
 An equation is a mathematical formula consisting of any two expressions that are connected with an $=$ (Equals) sign, expressing the equality.

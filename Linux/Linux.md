@@ -1,3 +1,8 @@
+```
+---
+share: true
+---
+```
 **Tags:** #linux #index
 After using Linux, I really cannot go back to Windows or MacOS or anything like that no matter what. Linux is love, Linux is life. I've been a distrohopper (Someone who keeps installing one Linux distribution after another) when I first began my treacherous journey into Linux  but I've finally come to the realization that all distros are quite literally the same except rather minor differences, and have now settled on [NixOS](https://nixos.org/).
 

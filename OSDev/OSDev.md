@@ -1,3 +1,8 @@
+```
+---
+share: true
+---
+```
 **Tags:** #osdev #programming #index
 This is my collection of notes about OS development mainly concerning the Intel x86 architecture.
 

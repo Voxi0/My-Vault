@@ -1,3 +1,8 @@
+```
+---
+share: true
+---
+```
 **Tags:** #osdev #programming
 OS development is the great pinnacle of programming and teaches you a lot about how computers work as making an operating system means you have to write the code to describe how things are done e.g. how memory is managed.
 

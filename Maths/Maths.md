@@ -1,3 +1,8 @@
+```
+---
+share: true
+---
+```
 **Tags:** #maths #index
 This is my collection of notes about Maths! It's probably my second or third most favourite subject (Even though I suck at it). My first favourite subject is obviously Computer Science and programming.
 
