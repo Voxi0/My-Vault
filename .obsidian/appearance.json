@@ -1,13 +1,8 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "interfaceFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
-  "baseFontSizeAction": true,
-  "theme": "obsidian",
-  "showViewHeader": true,
-  "enabledCssSnippets": [
-    "checkbox",
-    "main"
-  ]
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Mono",
+  "showRibbon": true,
+  "nativeMenus": false
 }

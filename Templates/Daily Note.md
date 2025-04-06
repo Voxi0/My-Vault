@@ -1,2 +1,4 @@
-**{{time}}**
-**Tags:**
+---
+date: {{date}}
+day: {{date:dddd}}
+---

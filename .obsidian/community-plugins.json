@@ -1,13 +1,11 @@
 [
+  "homepage",
+  "obsidian-icon-folder",
   "obsidian-latex-suite",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin",
-  "obsidian-hider",
-  "obsidian-completr",
-  "dataview",
-  "obsidian-image-toolkit",
-  "url-into-selection",
-  "obsidian-icon-folder",
-  "homepage",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-banners",
+  "github-sync",
+  "obsidian-mkdocs-publisher",
+  "heatmap-calendar"
 ]

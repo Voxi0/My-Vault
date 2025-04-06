@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/January/1st Jan 2025.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1st Jan 2025"
+              "title": "Home"
             }
           }
         ]
@@ -27,15 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f2581a19d08acd9c",
+    "id": "18b5b5b9ded6422f",
     "type": "split",
     "children": [
       {
-        "id": "561aa042e9c5896c",
+        "id": "80e6dfc34b16233c",
         "type": "tabs",
         "children": [
           {
-            "id": "9510c8119bcfa4e1",
+            "id": "756cbb6df957f623",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "38f57ed0a2eec24e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,39 +65,35 @@
             }
           },
           {
-            "id": "9290d82c24d95a86",
+            "id": "14a85a7ce15b66eb",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267
   },
   "right": {
-    "id": "d0fbedcf71228566",
+    "id": "7059f1044fc8100c",
     "type": "split",
     "children": [
       {
-        "id": "e3caba018631551d",
+        "id": "70a1cca2db64e095",
         "type": "tabs",
         "children": [
           {
-            "id": "63019b29a245b0c9",
+            "id": "afa0e3f4ae9d8de1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,50 +103,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2579a787f093b6cb",
+            "id": "d0d82f0aa680db71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0eb6a86bcc9e8e20",
+            "id": "9cedbdd65634419e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3da86312d7fb8170",
+            "id": "9af827923a1da0dc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,53 +158,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "9290d82c24d95a86",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Zig/Overview.md",
     "Home.md",
-    "Diary/2025/January/1st Jan 2025.md",
-    "Diary/2025/January/Untitled.md",
-    "Diary/2025/January",
-    "Diary/2025",
-    "An Inspector Calls - Event Timeline.md",
-    "Untitled.md",
-    "Diary/Drawing 2024-12-26 12.25.43.excalidraw.md",
-    "Projects/Test.md",
-    "Projects/OSDev.md",
-    "Projects/Emulator.md",
-    "Projects",
-    "Projects/Test Note.md",
-    "Projects/another test.md",
-    "test.md",
-    "tag-wrangler.md",
-    "Templates/Default.md",
-    "Projects",
+    "Maths/Algebra",
+    "English/Past Paper.md",
+    "English",
+    "Temporary.md",
+    "Maths/Untitled.md",
+    "Diary/Monday - 31st Mar 2025.md",
     "Templates/Daily Note.md",
-    "Diary/16th Dec 2024.md",
-    "Diary/Untitled.md",
-    "School/Science/Index.md",
-    "School/Science/Physics/Index.md",
-    "pfp.jpg",
-    "README.md",
-    "pfp1..md",
-    "Assets/pfp.jpg",
-    "TODO.md",
-    "2025-01-01 Happy New Year!.md",
-    "Diary/15th Dec 2024.md",
-    "Excalidraw/Scrooge.md",
-    "Test.md",
+    "Diary/30th Mar 2025.md",
+    "Maths/Algebra/Equations.md",
+    "Diary",
+    "Templates",
+    "Maths/Algebra/Identity.md",
+    "Excalidraw/Drawing 2025-03-29 23.16.41.excalidraw.md",
     "Excalidraw",
-    "School/Science/Chemistry/Untitled",
-    "School/Science/Chemistry",
-    "School/Science",
-    "School"
+    "Maths/Variables.md",
+    "Maths/Constants.md",
+    "Maths/Matrices.md",
+    "Maths/Vectors.md",
+    "Maths/Angles.md",
+    "Maths/Trigonometry.md",
+    "Maths/Linear Interpolation.md",
+    "Maths/Assets",
+    "Maths/Assets/Parts of An Angle.png",
+    "Maths",
+    "GCSE/Science/Notes/Untitled.md",
+    "Graphics Programming",
+    "Templates/Flashcards.md",
+    "Templates/Notes.md",
+    "Templates/Summaries.md",
+    "GCSE/Science/Summaries",
+    "GCSE/Science/Past Papers",
+    "Excalidraw/Drawing 2025-02-23 17.38.20.excalidraw.md",
+    "Untitled 1.md",
+    "Welcome.md"
   ]
 }
