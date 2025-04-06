@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25587f73cc7fba4e",
+        "id": "82e730bf5623ece6",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b2d64ea93a651e",
+            "id": "c4de46f900f7a512",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "New tab"
             }
           }
         ]
@@ -168,18 +164,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e4b2d64ea93a651e",
+  "active": "756cbb6df957f623",
   "lastOpenFiles": [
-    "Linux/Linux.md",
-    "Home.md",
-    "Maths/Maths.md",
-    "OSDev/OSDev.md",
-    "Templates/Daily Note.md",
+    "Zig.md",
+    "OSDev.md",
+    "Maths.md",
+    "Linux.md",
+    "Introduction.md",
+    "Identity.md",
+    "Equations.md",
     "Zig/Zig.md",
+    "Zig/Introduction.md",
+    "Templates/Daily Note.md",
+    "OSDev/OSDev.md",
+    "OSDev/Basics/Introduction.md",
+    "Maths/Maths.md",
     "Maths/Algebra/Identity.md",
     "Maths/Algebra/Equations.md",
-    "OSDev/Basics/Introduction.md",
-    "Zig/Introduction.md",
+    "Linux/Linux.md",
+    "Home.md",
     "Linux",
     "Untitled.canvas",
     "Maths/Algebra",
@@ -196,17 +199,10 @@
     "Maths/Constants.md",
     "Maths/Matrices.md",
     "Maths/Vectors.md",
-    "Maths/Angles.md",
-    "Maths/Trigonometry.md",
-    "Maths/Linear Interpolation.md",
     "Maths/Assets",
     "Maths/Assets/Parts of An Angle.png",
     "Maths",
-    "GCSE/Science/Notes/Untitled.md",
     "Graphics Programming",
-    "Templates/Flashcards.md",
-    "Templates/Notes.md",
-    "Templates/Summaries.md",
     "GCSE/Science/Summaries"
   ]
 }
