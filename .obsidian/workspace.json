@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "b6ac7dffeee08e88",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c3ca0055383a6dd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,22 +168,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "756cbb6df957f623",
   "lastOpenFiles": [
-    "Zig/Overview.md",
+    "Linux/Linux.md",
+    "Maths/Maths.md",
+    "Maths/Algebra/Identity.md",
+    "Maths/Algebra/Equations.md",
+    "OSDev/OSDev.md",
+    "OSDev/Basics/Introduction.md",
+    "Zig/Introduction.md",
     "Home.md",
+    "Zig/Zig.md",
+    "Linux",
+    "Templates/Daily Note.md",
+    "Untitled.canvas",
     "Maths/Algebra",
     "English/Past Paper.md",
     "English",
     "Temporary.md",
-    "Maths/Untitled.md",
     "Diary/Monday - 31st Mar 2025.md",
-    "Templates/Daily Note.md",
     "Diary/30th Mar 2025.md",
-    "Maths/Algebra/Equations.md",
     "Diary",
     "Templates",
-    "Maths/Algebra/Identity.md",
     "Excalidraw/Drawing 2025-03-29 23.16.41.excalidraw.md",
     "Excalidraw",
     "Maths/Variables.md",
@@ -201,10 +207,6 @@
     "Templates/Flashcards.md",
     "Templates/Notes.md",
     "Templates/Summaries.md",
-    "GCSE/Science/Summaries",
-    "GCSE/Science/Past Papers",
-    "Excalidraw/Drawing 2025-02-23 17.38.20.excalidraw.md",
-    "Untitled 1.md",
-    "Welcome.md"
+    "GCSE/Science/Summaries"
   ]
 }

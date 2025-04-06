@@ -1,5 +1,4 @@
 **Tags:** #osdev #programming
-
 OS development is the great pinnacle of programming and teaches you a lot about how computers work as making an operating system means you have to write the code to describe how things are done e.g. how memory is managed.
 
 A very popular and well-known online resource that practically **every** OS developer has come across is [OSDev Wiki](Https://wiki.osdev.org/). It's an extensive collection of resources to aid you in OS development. For example, it has notes that describes what a GDT (Global Descriptor Table) is and how it works etc. It doesn't have all the details and is missing a lot of information but it's still extremely handy.
