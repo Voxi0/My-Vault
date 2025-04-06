@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:Voxi0/My-Vault.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
