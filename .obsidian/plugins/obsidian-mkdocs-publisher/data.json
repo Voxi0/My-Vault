@@ -1,7 +1,7 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
+    "user": "Voxi0",
+    "repo": "My-Vault",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
@@ -18,8 +18,8 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4997
   },
   "upload": {
     "behavior": "fixed",
@@ -98,5 +98,6 @@
     "displayModalRepoEditing": false,
     "setFrontmatterKey": "Set",
     "migrated": true
-  }
+  },
+  "tabsId": "github-configuration"
 }
