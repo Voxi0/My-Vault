@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82e730bf5623ece6",
+        "id": "09e1426535c7fa9a",
         "type": "tabs",
         "children": [
           {
-            "id": "c4de46f900f7a512",
+            "id": "cd51e5cd52a7e789",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -166,6 +170,21 @@
   },
   "active": "756cbb6df957f623",
   "lastOpenFiles": [
+    "Science/Biology/Cell Membrane.md",
+    "Science/Biology/Cell.md",
+    "Home.md",
+    "Science/Biology/DNA.md",
+    "Science/Biology/Chromosomes.md",
+    "Science/Biology/Nucleus.md",
+    "Science/Biology/Cytoplasm.md",
+    "Science/Biology/Plant and Animal Cells.md",
+    "Science/Biology",
+    "Science",
+    "Study Methods.md",
+    "History.md",
+    "Maths/Maths.md",
+    "Zig/Introduction.md",
+    "Zig/Zig.md",
     "Zig.md",
     "OSDev.md",
     "Maths.md",
@@ -173,36 +192,21 @@
     "Introduction.md",
     "Identity.md",
     "Equations.md",
-    "Zig/Zig.md",
-    "Zig/Introduction.md",
     "Templates/Daily Note.md",
     "OSDev/OSDev.md",
     "OSDev/Basics/Introduction.md",
-    "Maths/Maths.md",
     "Maths/Algebra/Identity.md",
     "Maths/Algebra/Equations.md",
     "Linux/Linux.md",
-    "Home.md",
     "Linux",
     "Untitled.canvas",
     "Maths/Algebra",
-    "English/Past Paper.md",
     "English",
-    "Temporary.md",
-    "Diary/Monday - 31st Mar 2025.md",
-    "Diary/30th Mar 2025.md",
     "Diary",
     "Templates",
-    "Excalidraw/Drawing 2025-03-29 23.16.41.excalidraw.md",
     "Excalidraw",
-    "Maths/Variables.md",
-    "Maths/Constants.md",
-    "Maths/Matrices.md",
-    "Maths/Vectors.md",
     "Maths/Assets",
     "Maths/Assets/Parts of An Angle.png",
-    "Maths",
-    "Graphics Programming",
-    "GCSE/Science/Summaries"
+    "Maths"
   ]
 }
