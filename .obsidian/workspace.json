@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09e1426535c7fa9a",
+        "id": "484e88659479d59b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd51e5cd52a7e789",
+            "id": "4012db173bd1317f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "New tab"
             }
           }
         ]
@@ -168,11 +164,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "756cbb6df957f623",
+  "active": "4012db173bd1317f",
   "lastOpenFiles": [
+    "Home.md",
     "Science/Biology/Cell Membrane.md",
     "Science/Biology/Cell.md",
-    "Home.md",
     "Science/Biology/DNA.md",
     "Science/Biology/Chromosomes.md",
     "Science/Biology/Nucleus.md",
