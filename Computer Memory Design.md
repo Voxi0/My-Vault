@@ -1,0 +1,4 @@
+- **Access Time**: UMA has equal access time, while NUMA has variable access times based on memory location. COMA focuses on cache access.
+- **Memory Controllers**: UMA uses a single memory controller; NUMA uses multiple controllers; COMA relies on cache sharing.
+- **Performance**: NUMA generally outperforms UMA, and COMA can excel in specific scenarios due to its caching strategy.
+- **Applications**: UMA is used in general-purpose systems, NUMA in performance-critical applications, and COMA in high speed data access scenarios.

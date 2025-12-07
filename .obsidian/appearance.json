@@ -1,8 +1,6 @@
 {
-  "cssTheme": "Things",
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Mono",
-  "showRibbon": true,
-  "nativeMenus": false
+  "interfaceFontFamily": "Courier New",
+  "textFontFamily": "Courier New",
+  "monospaceFontFamily": "Source Code Pro",
+  "cssTheme": "Tokyo Night"
 }

@@ -1,11 +1,7 @@
 [
-  "homepage",
-  "obsidian-icon-folder",
-  "obsidian-latex-suite",
   "obsidian-style-settings",
+  "obsidian-icon-folder",
   "tag-wrangler",
-  "obsidian-banners",
-  "github-sync",
-  "obsidian-mkdocs-publisher",
-  "heatmap-calendar"
+  "obsidian-latex-suite",
+  "obsidian-hider"
 ]

@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "37e678346f08dbb4",
     "type": "split",
     "children": [
       {
-        "id": "484e88659479d59b",
+        "id": "f8095e0e3c01e296",
         "type": "tabs",
         "children": [
           {
-            "id": "4012db173bd1317f",
+            "id": "df1443f17ffdc185",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C/Compilation Process.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Compilation Process"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "18b5b5b9ded6422f",
+    "id": "490b1aebb682431e",
     "type": "split",
     "children": [
       {
-        "id": "80e6dfc34b16233c",
+        "id": "91fe0e384d6493b0",
         "type": "tabs",
         "children": [
           {
-            "id": "756cbb6df957f623",
+            "id": "22de0fbab751ed0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "38f57ed0a2eec24e",
+            "id": "2079fcafffba2da3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "14a85a7ce15b66eb",
+            "id": "8a764807e2d3ab33",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 300
   },
   "right": {
-    "id": "7059f1044fc8100c",
+    "id": "7bf5a747719520a4",
     "type": "split",
     "children": [
       {
-        "id": "70a1cca2db64e095",
+        "id": "347bc2e3e889f4a1",
         "type": "tabs",
         "children": [
           {
-            "id": "afa0e3f4ae9d8de1",
+            "id": "c31741dacb955025",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "d0d82f0aa680db71",
+            "id": "bfdccb258fb2c84b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "9cedbdd65634419e",
+            "id": "9f8c5c2dd30ee704",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +135,21 @@
             }
           },
           {
-            "id": "9af827923a1da0dc",
+            "id": "c4bcf43cac9d29f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c9a3e66556041537",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -144,8 +162,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,55 +171,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "bases:Create new base": false
     }
   },
-  "active": "4012db173bd1317f",
+  "active": "df1443f17ffdc185",
   "lastOpenFiles": [
-    "Home.md",
-    "Science/Biology/Cell Membrane.md",
-    "Science/Biology/Cell.md",
-    "Science/Biology/DNA.md",
-    "Science/Biology/Chromosomes.md",
-    "Science/Biology/Nucleus.md",
-    "Science/Biology/Cytoplasm.md",
-    "Science/Biology/Plant and Animal Cells.md",
-    "Science/Biology",
-    "Science",
-    "Study Methods.md",
-    "History.md",
-    "Maths/Maths.md",
-    "Zig/Introduction.md",
-    "Zig/Zig.md",
-    "Zig.md",
-    "OSDev.md",
-    "Maths.md",
-    "Linux.md",
-    "Introduction.md",
-    "Identity.md",
-    "Equations.md",
-    "Templates/Daily Note.md",
-    "OSDev/OSDev.md",
-    "OSDev/Basics/Introduction.md",
-    "Maths/Algebra/Identity.md",
-    "Maths/Algebra/Equations.md",
-    "Linux/Linux.md",
-    "Linux",
-    "Untitled.canvas",
-    "Maths/Algebra",
-    "English",
-    "Diary",
-    "Templates",
-    "Excalidraw",
-    "Maths/Assets",
-    "Maths/Assets/Parts of An Angle.png",
-    "Maths"
+    "C/Header Files.md",
+    "C/Compilation Process.md",
+    "C/What is C?.md",
+    "C/Foreword.md",
+    "File Types.md",
+    "night_city.png",
+    "Operating Systems/Kernel.md",
+    "Operating Systems/Operating System.md",
+    "Operating Systems/Interrupts.md",
+    "Operating Systems/Bootloader.md",
+    "Operating Systems/BIOS.md",
+    "Computer Architectures.md",
+    "Computer Memory Design.md",
+    "Data Backup and Storage.md",
+    "Untitled.base"
   ]
 }
