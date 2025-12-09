@@ -1,6 +1,8 @@
 {
   "underwater-theme@@underwater-colors-dark": "biscuit-dark",
-  "underwater-theme@@workspace-bg": false,
-  "underwater-theme@@bg-opacity": 0.3,
-  "underwater-theme@@bg-blur": 0
+  "underwater-theme@@workspace-bg": true,
+  "underwater-theme@@bg-opacity": 1,
+  "underwater-theme@@bg-blur": 2,
+  "underwater-theme@@bg-url": "url(\"https://tangled.org/voxi0.tngl.sh/NixDots/raw/main/modules/home/wallpapers/Wallpapers/night_city.png\")",
+  "underwater-theme@@layout-opacity": 0.8
 }

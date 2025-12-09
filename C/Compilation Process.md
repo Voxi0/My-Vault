@@ -24,7 +24,7 @@ The `.s` Assembly file is now passed to the Assembler which finally converts the
 - **Symbol Resolution:** The assembler resolves labels and references to functions ensuring everything is being addressed properly.
 The output is a `.o` object file containing all the machine code for a source file. However, it's not executable just yet.
 ## Linking
-Now, all `.o` object files are combined together into one executable. The linker resolves any external references and prepares the final machine code for execution. Linker flags allows more fine grained control over how object files and libraries are linked together.
+Now, all `.o` object files are combined together into one executable. The linker resolves any external references and prepares the final machine code for execution. [[Linker Flags]] allows more fine grained control over how object files and libraries are linked together.
 
 There are two types of linking -
 - **Static:** All libraries and functions are copied into the executable at compile time making the executable larger in size since all code is embedded. This way, there are no dependencies on external libraries at runtime. Static library files are typically `.a` on UNIX-like systems and `.lib` files on Windows.
@@ -33,4 +33,4 @@ There are two types of linking -
 Key things done in this phase are -
 - **Symbol Resolution:** The linker connects function calls in your code with the correct function definitions, which may reside in other object files or libraries. 
 - **Relocation:** The linker adjusts the addresses of variables and functions, ensuring that all addresses are correct once the object files are combined.
-- **Adding Startup Code:** The linker adds necessary boilerplate code to set up the environment, such as passing command-line arguments, setting up the stack, and calling the main function. Without this code, the program cannot run properly.
+- **Adding Start-up Code:** The linker adds necessary boilerplate code to set up the environment, such as passing command-line arguments, setting up the stack, and calling the main function. Without this code, the program cannot run properly.

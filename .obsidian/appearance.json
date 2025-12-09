@@ -1,6 +1,7 @@
 {
-  "interfaceFontFamily": "Courier New",
-  "textFontFamily": "Courier New",
-  "monospaceFontFamily": "Source Code Pro",
-  "cssTheme": "Tokyo Night"
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Mono",
+  "cssTheme": "Underwater",
+  "theme": "obsidian"
 }
