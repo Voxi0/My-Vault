@@ -1,0 +1,16 @@
+A macro is a symbolic name or constant that holds some sort of value, expression or code snippet. They're defined using the `#define` [[Preprocessor Directives]] and then everywhere the macro's name appears, the preprocessor literally replaces the text with the macro’s definition/value .
+
+Macros are commonly used for declaring constants, conditional compilation which means you can include/exclude parts of your code from being compiled entirely using macros and simple functional macros.
+
+However, while macros seem efficient because they don’t produce runtime storage or function call overhead, they shouldn't be used absolutely everywhere. There are various reasons for this listed below.
+- **No type checks:** This means that a functional macro will accept literally any value passed to it and the program will actually compile even if the value is gibberish.
+- **No scope:** Macros are global to the entire file it's defined in even if you define them inside a function or something as the preprocessor doesn't understand C syntax. Therefore, the code can be rather confusing. And obviously if a macro is defined in a [[Header Files]], all other files including it will inherit the macro. So if the programmer attempts to use a variable or something that has an identical name to the macro, the preprocessor will replace them with the value of the macro which is obviously a bad thing.
+- **Harder to debug:** Debuggers can't step into macro expansions since  they don't exist as functions. The preprocessor removes the `#define` from the preprocessed code itself while replacing all the places where the macro's name appears with it's definition/value. This makes the macro pretty much completely invisible after the code is preprocessed. Error messages often point to the expanded macro code rather than the macro definition itself which makes debugging more difficult.
+- **Operator-precedence pitfalls:** Macros perform raw text substitution so expressions like `#define SQR(x) x * x` can behave unexpectedly unless wrapped in parentheses.
+- **Multiple evaluations:** Functional macros may evaluate arguments more than once causing unintended side effects. For example, imagine we had `#define SQR(x) ((x) * (x))` and then we used the macro as such `SQR(i++)`. The preprocessor would remove the `#define` and replace `SQR(i++)` with `i++ * i++` which is wrong because we're incrementing `i` twice instead of incrementing it once and multiplying it as we intended to.
+
+According to the [[Compilation Process]], the preprocessor runs before the compiler and doesn’t understand types, expressions, or syntax. It understands only raw tokens which explains why macros lack type checks, scoping, and semantic understanding completely.
+
+Other than that, using macros for conditional compilation is common and acceptable. But it should be used carefully and sparingly for any other use cases.
+
+Additionally, `#undef` can be used to undefine a previously defined macro which unsurprisingly means that you can't use a macro after you use `#undef` on it.

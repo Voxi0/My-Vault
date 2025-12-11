@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Compiler Flags.md",
+                "file": "C/Preprocessor Directives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compiler Flags"
+              "title": "Preprocessor Directives"
             }
           }
         ]
@@ -180,14 +180,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "22de0fbab751ed0c",
+  "active": "99015fb1fe601d7a",
   "lastOpenFiles": [
+    "C/Macros.md",
+    "C/Preprocessor Directives.md",
+    "C/Linker Flags.md",
+    "C/Header Files.md",
     "C/Compilation Process.md",
     "C/Compiler Flags.md",
-    "C/Foreword.md",
-    "C/Header Files.md",
-    "C/Linker Flags.md",
     "C/What is C.md",
+    "C/Foreword.md",
     "C/What is C?.md",
     "File Types.md",
     "night_city.png",
