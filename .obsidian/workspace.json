@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Preprocessor Directives.md",
+                "file": "C/Standard Library (LibC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preprocessor Directives"
+              "title": "Standard Library (LibC)"
             }
           }
         ]
@@ -182,25 +182,27 @@
   },
   "active": "99015fb1fe601d7a",
   "lastOpenFiles": [
-    "C/Macros.md",
-    "C/Preprocessor Directives.md",
-    "C/Linker Flags.md",
-    "C/Header Files.md",
-    "C/Compilation Process.md",
-    "C/Compiler Flags.md",
     "C/What is C.md",
-    "C/Foreword.md",
-    "C/What is C?.md",
+    "C/Standard Library (LibC).md",
+    "Computer Architectures.md",
+    "Assembly",
+    "Computer Memory Design.md",
     "File Types.md",
+    "Data Backup and Storage.md",
+    "C/Header Files.md",
+    "C/Foreword.md",
+    "C/Compiler Flags.md",
+    "C/Preprocessor Directives.md",
+    "C/Macros.md",
+    "C/Linker Flags.md",
+    "C/Compilation Process.md",
+    "C/What is C?.md",
     "night_city.png",
     "Operating Systems/Kernel.md",
     "Operating Systems/Operating System.md",
     "Operating Systems/Interrupts.md",
     "Operating Systems/Bootloader.md",
     "Operating Systems/BIOS.md",
-    "Computer Architectures.md",
-    "Computer Memory Design.md",
-    "Data Backup and Storage.md",
     "Untitled.base"
   ]
 }
