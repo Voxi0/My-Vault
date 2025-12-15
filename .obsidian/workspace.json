@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Standard Library (LibC).md",
+                "file": "Homework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard Library (LibC)"
+              "title": "Homework"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "99015fb1fe601d7a",
   "lastOpenFiles": [
-    "C/What is C.md",
+    "Pasted image 20251214231809.png",
     "C/Standard Library (LibC).md",
+    "Homework.md",
+    "C/What is C.md",
     "Computer Architectures.md",
     "Assembly",
     "Computer Memory Design.md",
