@@ -1,0 +1,3 @@
+- Fix Terminal keybinding
+- Fix Udiskie logo
+- Fix Discord performance issues and the fact that Vencord doesn't seem to be working or something?
