@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "37e678346f08dbb4",
+    "id": "fc5e0af77cbce7e4",
     "type": "split",
     "children": [
       {
-        "id": "9b37d8c0dfd9b572",
+        "id": "a4ac9dad921a9487",
         "type": "tabs",
         "children": [
           {
-            "id": "69834717b0ba2367",
+            "id": "73847ed715ccac6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draugr Inn - Fjörustaðr.md",
+                "file": "The Pragmatic Programmer/Good Enough Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draugr Inn - Fjörustaðr"
+              "title": "Good Enough Software"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "490b1aebb682431e",
+    "id": "5f2452d374112a71",
     "type": "split",
     "children": [
       {
-        "id": "91fe0e384d6493b0",
+        "id": "725742fe1dda506a",
         "type": "tabs",
         "children": [
           {
-            "id": "22de0fbab751ed0c",
+            "id": "c22f4f84f4032bbb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2079fcafffba2da3",
+            "id": "64ad0c3c99973e0d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8a764807e2d3ab33",
+            "id": "103fa9c6f98fc2b8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "7bf5a747719520a4",
+    "id": "a79eb695d0341e82",
     "type": "split",
     "children": [
       {
-        "id": "347bc2e3e889f4a1",
+        "id": "08a4930adde0549b",
         "type": "tabs",
         "children": [
           {
-            "id": "c31741dacb955025",
+            "id": "a4e4ccc449d1b07e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Pragmatic Programmer/Good Enough Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Good Enough Software"
             }
           },
           {
-            "id": "bfdccb258fb2c84b",
+            "id": "5f045ada2d70f39b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Pragmatic Programmer/Good Enough Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Good Enough Software"
             }
           },
           {
-            "id": "9f8c5c2dd30ee704",
+            "id": "744d7ebcc8cc71ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "c4bcf43cac9d29f2",
+            "id": "1088c7cd3150ae37",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,17 +151,18 @@
             }
           },
           {
-            "id": "c9a3e66556041537",
+            "id": "9908dc48bf785047",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "The Pragmatic Programmer/Good Enough Software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Good Enough Software"
             }
           }
         ]
@@ -180,33 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "69834717b0ba2367",
+  "active": "73847ed715ccac6d",
   "lastOpenFiles": [
-    "Assignment.md",
-    "Draugr Inn - Fjörustaðr.md",
-    "Computer Architectures.md",
-    "Computer Memory Design.md",
-    "Data Backup and Storage.md",
-    "File Types.md",
-    "Pasted image 20251214231809.png",
-    "Homework.md",
-    "C/Standard Library (LibC).md",
-    "C/What is C.md",
-    "Assembly",
-    "C/Header Files.md",
-    "C/Foreword.md",
-    "C/Compiler Flags.md",
-    "C/Preprocessor Directives.md",
-    "C/Macros.md",
-    "C/Linker Flags.md",
-    "C/Compilation Process.md",
-    "C/What is C?.md",
-    "night_city.png",
-    "Operating Systems/Kernel.md",
-    "Operating Systems/Operating System.md",
-    "Operating Systems/Interrupts.md",
-    "Operating Systems/Bootloader.md",
-    "Operating Systems/BIOS.md",
-    "Untitled.base"
+    "The Pragmatic Programmer/Good Enough Software.md",
+    "The Pragmatic Programmer/Software Entropy.md",
+    "The Pragmatic Programmer/What Makes a Pragmatic Programmer?.md",
+    "The Pragmatic Programmer/Stone Soup and Boiled Eggs.md",
+    "The Pragmatic Programmer/The Cat Ate My Source Code.md",
+    "The Pragmatic Programmer",
+    "Welcome.md"
   ]
 }

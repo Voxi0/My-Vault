@@ -1,7 +1,6 @@
 {
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Mono",
-  "cssTheme": "Underwater",
-  "theme": "obsidian"
+  "interfaceFontFamily": "Iosevka NF",
+  "monospaceFontFamily": "Iosevka NFM",
+  "textFontFamily": "Iosevka NF",
+  "cssTheme": "Kanagawa Paper"
 }
