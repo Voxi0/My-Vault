@@ -1,4 +1,7 @@
-**Tags: #programming #os**
+---
+tags:
+  - osdev
+---
 Signals from a device e.g. the keyboard sent to the CPU telling it to immediately stop whatever it's currently doing and do something else before returning back to what it was doing.
 
 When a specific interrupt is triggered, the CPU looks up an entry for that specific interrupt from a table provided by the [[Operating System]]. The name of this table and the maximum number of entries that it can have depends on the CPU architecture. After the CPU finds the entry for the interrupt, it jumps to the code that the entry is pointing to. This is known as an Interrupt Service Routine (ISR) or an interrupt handler since this piece of code is run in response to an interrupt.

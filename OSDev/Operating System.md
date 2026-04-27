@@ -1,4 +1,7 @@
-**Tags: #programming #os**
+---
+tags:
+  - osdev
+---
 A complicated piece of software that manages a computer's hardware and software resources while also providing common services for other programs.
 
 It's basically a software layer that allows computer programs to interact with the hardware resources easily in a relatively portable manner.

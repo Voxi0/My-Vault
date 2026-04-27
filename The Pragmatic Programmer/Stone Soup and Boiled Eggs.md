@@ -1,3 +1,10 @@
+---
+tags:
+  - books
+  - programming
+cssclasses:
+  - notebook
+---
 You may be in a situation where you know exactly what needs to be done and how to do it. The entire system just appears before your eyes and you know it's right. But ask permission to tackle the whole thing and you'll be met with delays and blank stares.
 
 People will form committees, budgets will need approval, and things will get complicated. Everyone will guard their own resources.

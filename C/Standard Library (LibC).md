@@ -1,3 +1,7 @@
+---
+tags:
+  - c
+---
 The C standard library is a specification defined by the ISO C standard which details all the basic functions that all C programs should have access to. The libc on the otherhand is an implementation of the standard library e.g. musl, glibc, mlibc etc.
 
 This standard provides a portable API allowing programmers to do many things e.g. I/O handling, memory management, math operations etc. Think of it as an abstraction layer over platform-specific things while also providing general-purpose utilities.

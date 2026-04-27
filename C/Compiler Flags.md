@@ -1,3 +1,7 @@
+---
+tags:
+  - c
+---
 These flags changes how code is processed by the preprocessor, compiler and linker. They affect how the final binary turns out by setting optimization levels, enabling/disabling warnings, including/excluding debugging symbols etc. These can be used to either improve performance or customize the behavior. They can be combined together however you desire and the most common ones are listed below.
 ### General Flags
 These flags are extremely common and you'll almost always see them around.

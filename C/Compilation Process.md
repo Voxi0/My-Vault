@@ -1,3 +1,7 @@
+---
+tags:
+  - c
+---
 C isn't compiled directly to machine code. There's multiple steps involved in converting C code to machine code that can be executed.
 ## Summary
 - **Preprocessing**: Expands macros and includes while purging all comments outputting a `.i` file containing the cleaned up code that's ready for the actual compilation process.

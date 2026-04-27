@@ -1,3 +1,10 @@
+---
+tags:
+  - books
+  - programming
+cssclasses:
+  - notebook
+---
 ## Taking Responsibility
 Take responsibility for yourself and your actions, don't be afraid to admit ignorance or error.
 

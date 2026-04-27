@@ -1,3 +1,7 @@
+---
+tags:
+  - c
+---
 A simple and bare-bones general-purpose, imperative, procedural low-level systems programming language that was created in 1972 by Dennis Ritchie, C remains an extremely influential and widely used programming language to this day. It inspired many languages that came after hence why they bear many similarities to C.
 
 Although considered a low-level language in modern day standards, it was considered a very high-level language back when it was released as back in the day, people would carve punch cards out of granite and had to deal with the drudgery of lower-level languages such as Assembly.

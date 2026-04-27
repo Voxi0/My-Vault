@@ -1,3 +1,7 @@
+---
+tags:
+  - c
+---
 These are special instructions in your C code used by the preprocessor before actual compilation. These always start with a `#` followed by the action the preprocessor should perform e.g. `#include` to include the contents of a specified file, typically [[Header Files]]. These directives always end at the end of the line unless a backslash (`\`) is used to continue it to the next line.
 
 The most common directives that you'll see and should know are listed below.

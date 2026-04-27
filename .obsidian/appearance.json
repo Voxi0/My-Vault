@@ -2,5 +2,8 @@
   "interfaceFontFamily": "Iosevka NF",
   "monospaceFontFamily": "Iosevka NFM",
   "textFontFamily": "Iosevka NF",
-  "cssTheme": "Kanagawa Paper"
+  "cssTheme": "Underwater",
+  "enabledCssSnippets": [
+    "underwater-theme"
+  ]
 }

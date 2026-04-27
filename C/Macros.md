@@ -1,3 +1,7 @@
+---
+tags:
+  - c
+---
 A macro is a symbolic name or constant that holds some sort of value, expression or code snippet. They're defined using the `#define` [[Preprocessor Directives]] and then everywhere the macro's name appears, the preprocessor literally replaces the text with the macro’s definition/value .
 
 Macros are commonly used for declaring constants, conditional compilation which means you can include/exclude parts of your code from being compiled entirely using macros and simple functional macros.

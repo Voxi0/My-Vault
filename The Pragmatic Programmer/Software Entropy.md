@@ -1,3 +1,10 @@
+---
+tags:
+  - books
+  - programming
+cssclasses:
+  - notebook
+---
 Entropy is a term from physics that refers to the amount of "disorder" in a system. While software development is immune to all physical laws, the inexorable increase in entropy is inevitable.
 
 When disorder increases in software, we call it "software rot" or "technical debt".

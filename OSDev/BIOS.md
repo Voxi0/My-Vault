@@ -1,4 +1,7 @@
-**Tags: #programming #os**
+---
+tags:
+  - osdev
+---
 The Basic Input/Output System (BIOS) is a crucial piece of software that initializes the hardware components of a system during the boot process.
 
 It performs a Power-On Self-Test (POST) which is a crucial, automated diagnostic sequence immediately upon powering on to verify that essential hardware e.g. the CPU, memory, storage, and controllers are functioning properly before loading the [[Operating System]].

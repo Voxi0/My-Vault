@@ -1,3 +1,10 @@
+---
+tags:
+  - books
+  - programming
+cssclasses:
+  - notebook
+---
 Pragmatic programming is like an attitude, a style, a philosophy of approaching problems and their solutions. They think about the bigger picture beyond the immediate problem.
 
 Pragmatic programming stems from a philosophy of pragmatic thinking.
