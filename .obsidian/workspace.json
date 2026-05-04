@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSDev/Bootloader.md",
+                "file": "Wombat's Book of Nix/Introduction to Nix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bootloader"
+              "title": "Introduction to Nix"
             }
           }
         ]
@@ -84,8 +84,19 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "c92ab118b2b1d678",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,6 +209,11 @@
   },
   "active": "b1e421da2cfbc18a",
   "lastOpenFiles": [
+    "Nix/Introduction.md",
+    "Wombat's Book of Nix/Introduction to Nix.md",
+    "Wombat's Book of Nix",
+    "OSDev/Bootloader.md",
+    "Nix",
     "Templates/Default.md",
     "Templates/Diary.md",
     "C/Header Files.md",
@@ -213,7 +229,6 @@
     "OSDev/Real Mode.md",
     "OSDev/Operating System.md",
     "OSDev/Kernel.md",
-    "OSDev/Bootloader.md",
     "OSDev/BIOS.md",
     "OSDev/Interrupts.md",
     "FAT.md",
@@ -222,8 +237,6 @@
     "Computer Architectures.md",
     "Computer Memory Design.md",
     "C/Macros.md",
-    "C/Linker Flags.md",
-    "C/Foreword.md",
     "Templates",
     "Diary/2026/May",
     "Diary/2026/April",
